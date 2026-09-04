@@ -1,6 +1,6 @@
 # CSS Profile Card — Tommy Pacheco
 
-A single-page HTML5 demo built for ITD 210 (Web Page Design II)
+A two-page HTML5 project built for ITD 210 (Web Page Design II)
 at Northern Virginia Community College.
 
 This page demonstrates the foundational CSS elements:
